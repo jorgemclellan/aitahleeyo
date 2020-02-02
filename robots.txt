@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mahyaelei.initha.com/sitemap.xml
